@@ -15,10 +15,34 @@ Flutter Developer • Web Developer • UI Enthusiast
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+## 🚀 About Me
+
+- 🌱 Currently learning **Flutter**
+- 💻 Interested in **Web Development & App Development**
+- 🎯 Goal: Become a Professional Flutter Developer
+- 📍 Location: Bangladesh
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Cross-Platform+App+Developer;Learning+and+Building+Every+Day;Welcome+to+my+GitHub+Profile" />
 </p>
+
+
 
 ---
 
