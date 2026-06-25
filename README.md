@@ -81,7 +81,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,git,github,vscode,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,git,github,vscode,androidstudio"/>
 
 </div>
 
@@ -106,13 +106,6 @@ Flutter-based BMI Calculator with modern UI.
 
 ### 👨‍🎓 Student Profile Card
 Responsive student information card.
-
-### 📇 Contact Manager
-Contact Save, Edit & Delete functionality.
-
-### 🌐 Personal Portfolio Website
-Responsive web portfolio design.
-
 ---
 
 # 📊 GitHub Analytics
