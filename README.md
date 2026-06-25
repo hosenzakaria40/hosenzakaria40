@@ -62,3 +62,119 @@ class Developer {
 
   String currentFocus = "Cross Platform App Development";
 }
+
+```
+
+🔹 Passionate about Mobile App Development
+
+🔹 Learning Flutter & Modern UI Design
+
+🔹 Interested in Web Development
+
+🔹 Building Real World Projects
+
+🔹 Love Clean & Responsive Design
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,git,github,vscode,androidstudio"/>
+
+</div>
+
+---
+
+# 📈 Skill Progress
+
+| Skill | Progress |
+|---------|----------|
+| Flutter | ████████░░ 80% |
+| Dart | ████████░░ 80% |
+| UI Design | ███████░░░ 70% |
+| HTML/CSS | ████████░░ 80% |
+| Git/GitHub | ███████░░░ 70% |
+
+---
+
+# 🚀 Featured Projects
+
+### 📱 BMI Calculator
+Flutter-based BMI Calculator with modern UI.
+
+### 👨‍🎓 Student Profile Card
+Responsive student information card.
+
+### 📇 Contact Manager
+Contact Save, Edit & Delete functionality.
+
+### 🌐 Personal Portfolio Website
+Responsive web portfolio design.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hosenzakaria40&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosenzakaria40&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hosenzakaria40&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hosenzakaria40&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hosenzakaria40&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/hosenzakaria40">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/zakaria-hosen-063843384/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks For Visiting My Profile
+
+<img src="https://komarev.com/ghpvc/?username=hosenzakaria40&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
