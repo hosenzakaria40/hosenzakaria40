@@ -54,7 +54,7 @@ Flutter Developer • Web Developer • UI Enthusiast
 
 ```dart
 class Developer {
-  String name = "Zakaria Hosen";
+  String name = "Jakaria Hosen";
   String role = "Flutter Developer";
   
   List<String> skills = [
